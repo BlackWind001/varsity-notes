@@ -1,0 +1,1 @@
+These are my notes from reading on Zerodha Varsity.

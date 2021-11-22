@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "7766b5e620df9d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "b918d24f28b617b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moduile 1/Financial Intermediaries.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "89c1db5e3cf0bffe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moduile 1/Financial Intermediaries.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80c69ef0d617da2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e627b495994e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e2fa00628adc31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5efc69fe01cd964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2461d898f2d671ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "302d946ebd815d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb4673e7c197c06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Moduile 1/Financial Intermediaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89c1db5e3cf0bffe",
+  "lastOpenFiles": [
+    "Moduile 1/Financial Intermediaries.md",
+    "README.md",
+    "Moduile 1/Regulators.md"
+  ]
+}
